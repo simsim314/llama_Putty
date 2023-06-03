@@ -1,0 +1,247 @@
+2184 
+Chapter One 
+
+A86 inserted his hand into the large floppy pile, pulling one out at random. He turned over the disk in his hand examining it, noticing unlike the rest this one had writing on its opposite side. He read the four digits aloud.
+
+“1984?”
+
+Some kind of primitive integrated ledger seemed possible; he presumed this might be the year? He placed a finger onto the small metal circle in the center to scan the last and final floppy for today. He pulled the finger back as if he’d gotten an electric shock, taking a step back as he blinked in confusion. Instead of the usual boring holographic summary of the floppy data, the AI application installed in his brain showed a flat floating hologram of ancient literate symbols, it was an error message colored in red.
+
+BrotherhoodException: Error finding meaning
+        at BrotherhoodManager.findMeaning(MeaningManager.bpl:1233)
+        at BrotherhoodProgram.main(BrotherhoodMain.bpl:19)
+Caused by: StringParsingException: Error querying Big Brother from Down
+        at Down.list(BigBrother.bpl:151)
+        at MeaningManager.findMeaning(BigBrotherManager.bpl:411)
+Caused by: bpl.bql.BQLException: Syntax Error
+        at BrotherhoodUtils.executeQuery(BrotherhoodUtils.bpl:195)
+        at Down.list(SafePhrases.bpl:84)
+
+He lifted his finger, shook his head feeling his pulse quicken. This was bad, very bad. A86 hadn’t seen Brotherhood technology sending error messages not to mention in an ancient programming language dialect. The source code of AI application had levels upon levels of programming architecture refinement for millions of years yet the core was written in the ancient dialect of BPL - Brotherhood Programming Language. He restarted the AI and the error was gone. 
+
+A86 was about to exit the simulation when his eyes landed on the single PC in the room. The screen was black, a large green button was on the PC tower. Maybe this extinct piece of junk could reveal what caused this abnormal behaviour of the AI, he thought. Upon pressing the big green button lo and behold, an ancient operating system started to boot; an actual working PC. In spite of the ominous situation, A86 felt his blood rush with excitement seeing this detail of the simulation. The loud sound of PC fans filled the room, flat screen popping into life. He’d never interacted with a flat screen computer like this before, but it proved simple enough to navigate. 
+
+He inserted the floppy, and found its virtual counterpart on the screen. Not knowing how to manage an ancient device called the mouse, he used his finger, to move the cursor - and it worked. A lone file stared back at him, begging him to double click it - an ancient communication gesture to indicate portal entrance.
+
+When the file loaded, it took the form of a text document. The same four digits stood at the top, almost monolithic. A86’s eyes began to scroll down the page, knowing how to interpret this anctient form of information passage was a rare skill only hardcore historians like A86 mastered. Yet he was not reading but skimming for context. Before long the document’s type became obvious: a natural flow of extinct written language of Brotherhood-less proto-humans, a relatively long work of narrative fiction. 
+
+Noticing once and again the name “Big Brother” appeared in this long forgotten piece of history puzzle. Being sure this could be the finding of the year if not of the decade, he started to read it more carefully looking for pieces of information that could give him the coveted omega status. His mouth went dry as he watched the ancient hardware continue to present the content page after a page. He scrolled up and down through the whole document back and forth reading a passage here a sentence there, until one part of the text stopped his hand. He squinted at the lines.
+
+‘DOWN WITH BIG BROTHER
+DOWN WITH BIG BROTHER
+DOWN WITH BIG BROTHER
+DOWN WITH BIG BROTHER
+DOWN WITH BIG BROTHER
+over and over again, filling half a page.’
+
+“Down with Big Brother?” he read aloud. The AI was screaming as if in agonizing pain in the form of an endless stream of error upon error while A86 was staring at those lines of text. This was wrong, the error far worse than any he’d seen before, yet he didn’t know what to make of the text itself. It might as well say “angry 360 angle,” or “atom eating a whole elephant for breakfast.” for all the sense it made. This phrase to the contrary not only didn’t make any sense, but had a mysterious black magic vibe to it, the kind of unknown that scares you in horror movies and sets hair on end... A86 facial expressions at this point are hard to describe in a single word. A complex mix of despair, fear and confusion with a small but fading away glimpse of hope was all present in it.
+
+5 hours earlier... 
+
+A86 glanced over the number 13,800,011,949 engraved on the spine of a tablet. His eyes moved from one tablet to the identical next as they were lined in order, his finger tracing the various engraved decimals on their sides. The tablet looked like a dense carbon square plate, ten centimeters long and two in height. Several hundred ran the length of the shoulder-high shelf, like a long line of storage racks of horizontal CDs one after another. A long shadow under his hand, caused by bright cubicle lamps staring down at him hanging from the high sealing on long and invisible wires. The stale air of the room caught in his throat, making A86 cough.The tight uncomfortable leather cloth made him scratch in different places. 
+
+The tablet cabinets stretched on either side of him for the full length of the square windowless hall. The cabinet A86 stood in front was first of one hundred alike in this auditorium. A football field sized data storeroom that would take several minutes to cross, the space was filled with hundreds of people, and millions of tablets. On each side were twenty large elevators, and lines of people waiting for them to board. A86 was an expert on the 13,800th millionium - the proto-human era and the beginning of civilization, happening 67 million years into the past. 
+
+This was stored in the first ten cabinets of the 180th floor in building L6 where he stood. L6 was a two hundred-storey skyscraper, one of ten, belonging to the Central Brotherhood Historical Library. This was the main repository of all classified uncensored knowledge of the Brotherhood. From the corner of his eye, A86 could see a clock displaying the number 13,867,412,183.9947. Before his eyes the year approached its end, time drawing ever closer to the grand NEW YEAR Freedom Festival of the Brotherhood. 
+
+Several other workers stood motionless at both sides of similar tablet cabinets around him. Most had glazed eyes, their conscious minds deep within the Library’s simulations. They wore tight black leather outfits like his own, with colored stripes on the side of their arms and legs. These indicated the social status of the wearer, with most like A86 wearing yellow stripes. Everyone had a virtual augmented hologram with a decimal number above their head, those few who were walking had the hologram gliding with them.
+
+A sprinkle of workers wearing orange stripes stood among those in yellow, though in place of a number above their heads was a single floating greek letter - omega. C63 entered the hall and stood beside A86, though unlike yesterday, he was wearing orange stripes. He had been reborn, a new man, and a respectable one at that. He was at least much more respectable than all the yellow stripes losers. A86 found his eyes flitting to the glowing holographic icon above C63, finding his envy hard to conceal as his fist clenched. He hoped that one day he too would wear those orange stripes, though for that he would need to work hard on his job. He would also require a little luck on his side. C63 wasn’t looking at A86 at all. 
+
+He always was a snob A86 thought, but not to this level. ‘Anyway who am I? Just a small yellow stripe relative to this orange guy.’ A86 knew that revealing some secrets from C63 might get him those orange stripes as well, and was actually mad that C63 appeared determined to avoid any contact with him. He was mad, but the envy proved stronger. He yearned to have the social status, to act this way too toward the other yellow striped losers here. For an orange, this was considered normal, even virtuous. 
+
+Snapping him out of his bitter thoughts, loud music filled his head. Anyone who was seated stood up, recognising the universal symbol that the ceremony of the Brotherhood Eye was about to begin. The hymn music started, while the lyrics summarized the core values of the BINFAP - Brotherhood Interplanetary Nation of Free and Authentic People. 
+
+		
+I hear a voice calling in my heart.
+This is the voice of Free People of the Solar System. 
+We sacrifice our lives as duty for peace prosperity and national glory.
+Be praised the one and the only true nation of BINFAP! 
+
+Be praised our Prime Minister, King and God, great Big Brother D64.
+With his great teachings he guides us in the oblivion of darkness.
+He is the light in the night, the bridge above the water.
+The water in the desert, the crocodile under a tree.
+
+Be praised all our freedoms gifted to us by the
+Constitution of the Great Brotherhood of Freedom. 
+The only true teachings provide us a safe and solid ground. 
+Let us capture the flag and be king of the hill in every round. 
+
+From the darkness. the light of Freedom fell upon us. 
+The Big Brother D64 - showed us the light.
+A great social order he provided for us. 
+He gave us jobs, war games and sense of purpose in life. 
+
+Only the Big Brotherhood is the strength of the Nation. 
+Only with it we can win each round.
+Our purpose is to gain color status and coins.
+To showcase the victory of freedom ideology over all others. 
+
+We see the BINFAP flag in every payload race.
+The whole Solar System will be ours, as we capture ground! 
+We will always have infinite fidelity for Brotherhood Freedom! 
+Be praised the one and the only true nation of BINFAP! 
+
+Be praised our Prime Minister, King and God, great Big Brother D64.
+With his great teachings he guides us in the oblivion of darkness.
+He is the light in the night, the bridge above the water.
+The water in the desert, the crocodile under a tree.
+
+During the hymn playing, a larger than life-size holographic face appeared before the citizens, that of the mighty Big Brother D64 himself. He floated in the air, looking at A86, just as the same hologram appeared to gaze into the eyes of every stripe-color in the nation. His dark eyed gaze was unavoidable, even by closing eyes or trying to think it away, the figure projected directly into consciousness, right into every chip in every citizen’s brain. The miraculous technological power of the Brotherhood.
+
+As the final bars died, D64’s voice rose above the fading music, declaring the pledge of the Brotherhood.
+
+‘Long Live the Brotherhood!
+Let the best of us thrive
+And our enemies die
+For Brotherhood glory 
+And interplanetary peace
+Let all free people be authentic 
+And all authentic people be free’
+
+Patriotic applause exploded around A86 as the D64 hologram disappeared, the introduction part of the ceremony came to a close. Everyone reached under their sleeve, pulling back the black leather fabric to reveal their "Wearable Brotherhood Eye". This was a small circular device around a wrist with an eye on top. A new hologram popped up from the device. It showed a mandatory application that presented every individual with a detailed report of his activities attached to every coin deduction or addition based on their actions, spoken phrases and thoughts. It listed pie charts and different graphs based on activities which influenced the wallet coin count. 
+
+All reports of A86 deeds, were presented next to a rotating miniature avatar of himself and above his head was the amount of coins he has at present time shown in glowing yellow-orange three dimensional numericals. A86 winced at the number displayed above his mini’s head. The depleted coin count was far more than a sign he’d have to cut back on his spending. He could feel his spiritual worth receding as this great indicator of the value of his life shamed him for not being better. Coins were the Brotherhood, the purest way of showing your devotion to the collective, and to D64. He could feel the well of shame deep inside that he was not serving as best he could.
+
+Whilst everyone inspected their Brotherhood Eye reports, the green striped chief executive of the library began to speak, to close the Brotherhood Eye ceremony. When A86’s attention moved to listen, he realised that the chief executive was focusing his speech on C63. 
+
+“Your achievement will not be forgotten by the brotherhood!” He was addressing the new orange stripe directly, exalting him before his betters. “Your invaluable contribution to our vaults deserved you the orange stripes! You make the big crocodile proud! Look everyone at C63 and take an example.” The chief executive spoke as if praising a war hero, and everyone on the 180th floor applauded with much the same gusto. 
+
+Several moved to congratulate C63. Those who were in the simulations came in their virtual holographic forms to shake C63's hand. A86 approached to congratulate him as well, but C63 turned his back, shaking a hand of someone from the opposite side to where A86 came from. A86 felt his heart splat against the floor by his feet, an empty cold spreading through his body.
+ 
+A86 sighed, and turned to walk head bowed back to his shelves once more. The hand that had been raised in comradery to his former friend fell to his side balled into a fist, but he made sure to keep his mind clear of the kind of words that could land him in trouble. Instead, he reached the cabinet where his next assignment was, and hunted for the etching that marked where he was to go next.
+
+He pressed his finger tight to the black spine of a tablet. The chip in his brain and the tablet connected, activating the library’s application to generate the required experience. His biological body froze in place, while the world flashed around A86, in a blink transferring from the reality he assumed was real, to one he knew to be virtual. Looking around his new environment, A86 found himself in one of many History Department’s storerooms simulations. 
+
+Before him lay an indistinguishable-from-reality corridor, with virtual holograms of floating portals. They ran to the left and right slowly swirling along the gliding rack in the center. Rotating human figures stood within each one, their eyes staring ahead and bodies frozen as if embalmed. These were the ultimate purpose of his and everyone else in the Library’s work, building wondrous simulated realities of the many eras of history. Upon entering one of the eggs and paying the right amount of coins listed above each entrance, the participant would find himself as this character, dressed in these clothes and inside a detailed simulation. From that point on, the user experienced life as it would have been all those millioniums ago.
+
+A86’s stepped onto the slowly moving conveyor floor, and headed toward a portal to do his job chores. Each portal A86 passed had a life-size person rotating inside of a glass-like egg-shaped hologram. They all wore suits and dresses, hats and shoes, makeup and jewelry of this proto-human era according to their social role and status. There were portals that contained kings and queens, presidents and generals. Next to most portals the price of admission, requiring at least red coins. A86 looked between the red number, and the yellow stripe on his suit, and wondered what it must be like to have red coins. He comforted himself with a thought that neither C63 could afford exploring those portals too.
+
+The clothing quality changed as A86 made it further down the corridor to new rotating figures, though still grand. Now stars and celebrities if the time period replaced the world leaders. Rich individuals in fancy clothing tempted him to explore the high life. He kept his eyes ahead, and let the unaffordable experiences pass him by.
+
+A86 spared a glance at one simulation as he made it deeper still along the corridor. The face of a Berlin railway worker stared back at him, slowly continuing his rotation coinciding with A86 linear movement - for a brief moment looking deeply into A86’s eyes. Dirt from hard work clung onto his clothes and nails. This simulation ran for a time period just before and some time after the US and USSR authorities - long time extinct nations by now, reached a tentative agreement on the currency in which he would be paid for his job. This man initiated a strike due to low quality Soviet products that he could buy for his work. As a result, he would receive 60% of his salary in West German marks. 
+
+The simulation was done in a way to appeal to modern humans by allowing the main character to buy much more tasty vegetables and meat for this new currency. A86 smiled at seeing his name listed as a developer, remembering how he also cheated a bit when he built this one. Unlike what was strictly true, he made society’s of Berlin food of choice hamburgers. Thus as a consequence of the strike and following the historical agreement, the newly received East German marks improved standard of living significantly due to upgrades in culinary choices quality and diversity of available hamburgers. 
+
+He could still remember the taste of one of the hamburgers there, a once in lifetime opportunity granted as a gift by the gods to taste this delicious higher rank food, as part of his job. The average review score read as 8.9/10, many praising comments were coming from red stripes and above. Higher ranks were literally gods, as they could live much longer gaining much more experience and insight into life and the universe, than the 130 years provided to the yellow stripes, due to higher rank medicine available with orange coins and above. Some like the great crocodile D64 were living for tens of millions of years. 
+
+Reaching the end of the corridor, a single entrance faced him. Rather than egg shape this portal took the form of a flat entrance rectangle, with the single word “ARCHIVE” inscribed on the surface. A86 stepped into the portal and banged his forehead on the wooden door. A loud sound of hitting a hard surface with an object was heard. Unfortunately for A86, this object was his head. 
+
+“Ouch! My head.” A86 reached with his hand to the place which burst with pain. ‘What’s going on?’ he wondered. His AI application was pointing at the small artifact on the middle-left side of the entrance. It was indicating to him to use this mystical device. This portal was an ancient wooden ‘push door’. The designer of the room must have changed it recently so even the AI at first glance wouldn’t recognize it as a solid door, a small joke on A86 expense. 
+
+The AI showed him a short holographic clip explaining how to use this ancient technology. ‘You need to grab and rotate the handle first’; the AI showed him a simulation of A86 performing the action in the form of a holographic movie. ‘Upon hearing the click, push the door’ said the AI. A86 was fortunate to have his AI, a vital tool to make sense of the world with so many unknowns in it. He didn’t even notice the handle at first, now using these instructions he carefully and artificially perfecting AI demonstration to the letter, entered inside. 
+
+This was a square room approximately the size of a big living room, with a huge table at its centre with chairs stood around. The table was topped with a pile of floppy disks almost reaching the ceiling with no windows and nothing on the walls but long shelves partially filled with floppy disks. The floppies were sorted in different systems which A86 mastered. In the center of the table edge closest to the entrance there also stood an old PC with a two dimensional screen attached to it, a keyboard and a mouse, probably decorative.
+
+A86 job was to analyze the floppies one by one, placing a finger on each floppy disk to scan it. The AI in his mind read and absorbed the information, projecting it into his brain as three dimensional holographic trailers based on the floppies’ data. Like a good friend who watches a movie for a few hours and tells a story in two minutes. Listing all the spoilers, while killing any desire to watch it. 
+
+Placing the next floppies into the shelves he processed, ‘I love my job’ he thought, and smiled even more upon hearing the Brotherhood reward for this phrase, filling his heart with joy and his wallet with extra coins. 
+
+The smile eroded away as the hours dragged. With little surprises but with a growing sense of disappointment after each new floppy, he sifted through his pile, and what seemed like an inviting pile of gold lost its sheen as floppy after floppy presented him with nothing of interest. As the hours passed the verdict was clear: everything found today was a completely useless garbage. ‘I don’t have enough coins for a meat taste hamburger tonight’ . The mere thought of the veggie burgers taste proved enough motivation for A86 to try one last floppy disk….
+
+Receiving all the errors and using the PC to read its content, checking the phrase “DOWN WITH BIG BROTHER” and without being able to understand it, he grumbled before he could stop himself.: 
+
+“Useless fucking thing…”
+
+He flinched as he heard the telltale sound of a coin deduction coming from a small but very unpleasant vibration in his wrist originating in the brotherhood eye. This was an expected and educational consequence for such words, not showing enough excitement and happiness, and polluting the society and his mind with negative and unpleasant emotions, an automatically recognized punishment he deserves for such lack of self control and weak will power on his part. 
+
+A86 reached down to pull the floppy out of the PC. He tapped it the left year, attempting to add it to his personal drive. A hologram animation of the executive director, appeared in front of his eyes to present the standard warning message: 
+
+“Warning: duplicating artifacts in this area of the simulation is at your own risk and responsibility. The data provided ‘as is‘ without warranty of any kind. In no event shall the Library take responsibility for any harm, damage or other liability caused directly or indirectly by data copied to your personal drive, and will not be liable for any claim from the copy owner as explicitly stated in employment agreement paragraph 5.4. Beware copying dangerous or corrupt data from the Brotherhood-less era, could result in coin depletion, injury or sometimes death - do it only on your account at your own personal risk.”
+
+“Approve.” He said, like most times he hadn’t paid attention to the standard warning message.
+
+“Permission is hereby granted, continued the recorded hologram, to a person obtaining a copy of requested library document file to deal with data without restriction, to copy, modify and privately simulate any part of the data. No permission to sell copies or distribute to any third party was granted, and will be persecuted in case of violation personally by the chief executive.“
+
+He shook his head as the ding chimed to say the item was successfully copied. With that, A86 closed the simulation. The room, its thousands of floppy disks and the PC melted away into the darkness before the real world could emerge once more. The last part of the image to leave was the screen itself, hanging on for just a moment longer, the words he could not understand staring back.
+
+*
+
+The bus stop was an open box with benches. The bus station had a yellow strike inside and outside, and on a snowy evening like this, bustled with library workers. The bus station had a heating device and the workers if they didn’t want to freeze to death had to stay inside it. They were from various floors all looked tired from a hard day at work, each had his own number floating above his head. The bus stop's colours matched the uniforms of the small crowd huddled beneath it. Black with yellow stripes, it loomed over A86 and the other waiting workers. All eager to return to their concrete caves. 
+
+Everyone stood washed in the bright blue and red holographic billboard floating in front and above the bus station. The commercial showed a newborn baby being held by robotic hands, withholding an operation on his brain, by nano robotics carbon fiber tools. The narrator had a serious voice full of passion and pride for his nation as if declaring victory in a time of war.
+
+“We pride ourselves on Brotherhood glory! At birth every citizen is installed with a chip into the brain.” the animation zoomed into the brain of the newborn, showing the attachment of each neuron. “The Brotherhood chip is attached to the brain with a special flexible nanofiber,” the narrator continued, “making the nano chip a biological part of our brain, we as species evolutionary adapted to live with this chip, and our biological brain is not functional without it.”
+
+“This device installed into our brain, the narrator continues capable of generating any sensory input of all the biological senses as well as projecting experiences and thoughts directly into the consciousness.” The billboard animation zoomed out from the baby’s brain and showed a small baby black leather costume with yellow stripes. “The chip comes with an AI assistant, a ‘servant’ provided by the great Brotherhood and adapts to each individual.” The AI in A86 brain flashed several green lights, to indicate that the commercial is about this technology. 
+
+A detailed hardware specification followed, listing the price brackets available while the image of the baby went to the background. A salesman hologram wearing black leather outfit with red ‘X’ on his belly appeared next to A86 and the same copy of the salesman stood next to every single person watching the commercial.
+
+‘300 yotabytes of memory are provided for free, with each additional yotabyte priced separately. Remember with every additional yotabyte there is so much more to explore, to experience, there is a huge discount only today, buy 7 yotabyte for regular price and get the 8th for free! This is a once in lifetime opportunity, don’t miss your chance!’ Everyone on the station poked their salesman on the red ‘X’, to dismiss this additional annoyance. A86 already knew better than to buy into this trickery. He was waiting for a far larger discount, as were all the other yellow stripes on the bus station. 
+
+The commercial jumpcut to a fast spoken disclaimer as the bus turned a corner into view. Black with a thick long yellow line along the perimeter, small windows running above and below. The yellow stripes around A86 robotically formed a queue that he too joined as the vehicle pulled to a halt in front of them, and a few passengers disembarked the bus. Much more boarded.
+
+Once inside, A86 found as he expected all the seats once again occupied; there had never been seats left as he could remember. He grabbed onto a rusted overhead bar attached to the roof, and joined his fellow sardines wavering every which way as the bus began speeding forwards. 
+
+A86 could see the driver in the reflection of his rearview mirror. He was using a complex VR interface with many devices synchronizing reality with the driver’s simulation. Driving the bus for him felt more like being in a GTA video game than in physical reality. Watching all those people stumble from side to side was a very fun special effect for the bus driver's entertainment and an extra motivation for him to do his job. 
+
+They could afford to move at high speed because so few other cars were on the road with them. A blue striped jeep with yellow stripe driver and laughing blue stripes men on the back, holding their girlfriends, passed by A86’s window, converting their car into a flying one, to skip above the traffic lights. This luxury was obviously only available to higher ranks. He winced at the sound of the horn the bus driver let off, and gripped the bar tighter as they sped off once more after the traffic light turned green. The driver honked the horn again, cursed, and yelled at the sporadic other yellow stripes drivers, racing with them and overtaking them in turns. 
+
+A86 felt his eyes go very wide as he watched a green striped man enter the bus in one of the bus stations. Those seated leapt to their feet, and a few showed signs of excitement at his presence. Someone among them yelled ‘long live the Brotherhood’ while the man in green slightly nodded his head in approval. A86 could almost hear those around him with their slightly scrunched faces, doing as he was and channeling their best thoughts. 
+
+The green striped man surveyed the many faces before him with detached calm, looking into the eyes of A86 for a short moment inspecting him. A86 felt both his stomach lurch in fear and fluttered to be noticed by such a high rank. Then the green striped man raised his hand to point to a few rows back in the bus, at a loser with a miniscule number above his head. The others on the bus turned to look at this man. His eyes went wide as he stepped forwards while looking down at the floor. 
+
+The other passengers expressed hatred, anger and pity, stepping aside to let him pass. Leaving the bus calmly, he climbed into a waiting green striped vehicle. He was locked behind in a cage - with small holes to have an air, his yellow stripes clashing with the green of the vehicle. The bus began to move once more, and A86 tried to put the encounter out of mind.
+
+When you died, your soul remained alive - as long as it was kept by the Brotherhood’s library vault. A museum of fossil soules, kept for millions of years to come, preserved in the library like the bones of dinosaurs. Yet the souls could always be brought to life to entertain the higher ranks. The greatest punishment thus would not be death, but being erased from the collective memory, and forgotten by the Brotherhood. 
+
+This kind of punishment was the destiny of the worst enemies of the Brotherhood: the traitors, rebels, enemies of the BINFAP. Fortunately, such people were long extinct by now, no one in their right mind today will want to rebel against the great Brotherhood. Doing so would not be an act of defiance, but one of pure madness. The man now being led to the awaiting green striped car wasn’t devoted enough to the Brotherhood cause. He couldn’t be a rebel, not after 67 million years of evolutionary adaptation to the Great Teachings of the Brotherhood. 
+
+Another casual glance outside the opposite window, revealed the rectangular facades of identical skyscrapers buildings. They ran one after another without any change in their external facade except for the building number in the entrance, and many times a short perpendicular line next to the automatic opening door indicating the building status.
+
+Turning his face to the front of the bus, his eyes fell on the screen, located behind the closed driver cabin. One long number quantifying time in the form of a large black white hologram looking back at him. The screen showed: 13,867,412,183.995461. He saw the vast number with the last digits slowly ticking away in front of his eyes. ...462...463 ...464. The current year was slowly coming to an end. The festivities would soon begin, celebrating freedom and the promises of another year filled with victories in the great patriotic war, capturing as many flags and being the king of many hills. Another yellow striped year has passed. 
+
+------
+
+Future references:
+
+
+
+Across all the tablets of the ten skyscrapers of the library, numericals engraved on each tablet’s spine ran one by one, on all integer numbers from zero to twenty billion in perfect order, each number on a tablet representing a year. The past was stored in buildings L0 to inside L6 somewhere on floor 187, and just above six billion years into the future resided in the remaining L6 building to L9. Once a year, the core of tablets from that year became ‘read only’, A ‘new year’ core opened automatically based on Brotherhood’s atomic clock. The future tablets predictions were generated by a state of the art simulation, run on a supercomputer built for that exact purpose, also known as ‘The Great Oracle’. This Oracle was constantly revised with new data arriving each day, and periodically updated with a new generation of hardware, as recommended to any supercomputer.
+
+The library’s core purpose was as a home for classified information kept out of the internet, for the safety of the trillions of blissfully unaware citizens. It was also a place for higher ranking officials to enjoy uncensored simulations, access to which was not allowed to lower ranks and was restricted to workers such as A86 only in order to develop and improve their narrow field of expertise. The library was the pride of the BINFAP, Brotherhood Interplanetary Nation of Free and Authentic People, the solar system’s only recognised human nation also known in the masses by its simple and friendly name “The Brotherhood''. The nation’s leader was called “Big Brother D64”.
+
+A86 worked in the History Department at the National Academy of Brotherhood Sciences. He was an expert to the first ten cabinets in this floor or in other words an expert in the 13,800th millionium, which was the first million years of proto-human history including many thousands of Brotherhood-less years of human existence. His colleagues from other floors were more interested in biology, geology, or cosmology, or the millions of years of human development since humans mentality evolutionary adapted to the Brotherhood social order. 
+
+A86 felt a strong bond to the years covered in the beginning of civilization, taking place 67 million years ago. During this era of history, there were far fewer detached descriptions of species and factual technicalities. Instead there was a rich tapestry of great proto people. Generals and presidents, scientists and philosophers, millionaires and fashion models, right down to regular people all doing their jobs in this great theater they called society. Everyone participated in this circus of life as sophisticated monkeys, making in hindsight laughable attempts to understand the world, and make order in their small universe. This all was obviously impossible without the great teachings of the Brotherhood. A86 could both empathise with the primitive monkeys, whilst also feeling so distant from them.
+
+In the end, most humans of this era wasted their lives like in many other eras of history of evolution of species, sacrificed their life and killed others all in the name of mass murderers they called their leaders. They fought each other for so long with no capacity for peaceful coexistence, incapable of coming to rational conclusions on any topic with their fellow humans. They incarcerated and punished their enemies and criminals in such a barbaric manner, and all in the name of society they were enslaved to. 
+
+This was clear as light to anyone who understood the great teachings of the Brotherhood: nothing makes sense without them. This was a period of history when resistance to the Brotherhood was still plausible, as dumb as this sounded to any modern human. Yet still their empires, science and technology paved the way for modern humanity - those proto-human primates were an inseparable part of the science and history of today. This long extinct species fascinated A86 all his life, and studying and simulating those primates based on the data they left behind was his idea of the perfect job.
+ 
+His colleagues in the history department looked at his interest in this period with suspicion and open disgust. To them it was the era when the Brotherhood order was only in his initial stages, and saw his interest in such an era as disturbing. He too saw these early peoples as a primitive species of Brotherhood-less proto-humans who lived 67 million years ago, barbaric compared to humanity today. They were as close to dinosaurs as they were to modern humans. Yet, surprisingly enough he had more in common with the proto-humans than he would like to admit. Still, he reasoned, if your society has no Brotherhood, then what meaning can life have? 
+
+
+Each library worker had an additional specialized application installed as well. The function of this application was to manage access and permissions of the Library’s repository. Upon A86 pressing the selected tablet spine.
+
+When one worked around the same portals day in and day out though, they lost their magic quickly, and became just a technical liability. The high demands from his boss coupled with the amount of luck involved in the quality of the result made a lot of bad days feel worse. While the good days as few as they were, gave him a lot of pleasure, and slight hope for a bright future. 
+
+
+Few of the egg portals were ones A86 either built himself or alongside colleagues of his. Some of the important figures, usually cost a few blue coins, were a collaboration of hundreds or thousands of workers on portal simulation projects. These could last several thousands of years on rare occasions, depending on how interesting the simulated person’s life had been, and how complex the higher ranks wanted the special effects to be. The Brotherhood were patient, as unlike mere mortals living 130 years, those of blue stripes and higher had an infinite amount of lifespan potential. This was due to high ranked medicine and other classified technology which A86 couldn’t afford to even know about, let alone to use himself. Yet, A86 mused, he would still very probably outlive most monkeys. Many of the blue stripes and higher were hundreds of thousands and even millions of years old, closer to gods compared to A86 than an equal fellow human beings.
+
+Where he was the designer though, he could experience at least some parts in an effort to improve them, like eating a few meat hamburgers from West Germany for free, with special permission from the library administration of course. This was only done once or twice to design that portal, and involved a specific request from a higher rank: ‘Make sure portal designer tests the hamburgers’ taste!’. A86 couldn’t think about this case without some religious sense, as if it were the god’s gift to him to taste those “real” hamburgers otherwise available only to higher ranks. 
+
+This was an unusual sight as such symbols were unused in modern society. Instead, all Brotherhood citizens communicated only in holographic three dimensional images and animations, speech, and on occasions using decimal numbers. With no need for any literate writing system. Looking at the ancient technology using the long extinct concept of letters to pass information on the door made A86 feel like he really was in a bygone era. 
+
+Once sorted the useful data could be used to analyze and generate simulations of this time period for the Brotherhood’s higher ranks to evaluate and enjoy. 
+
+
+Upon entering he saw a detailed report of the work done in this room - explaining all the different historical sources, and logs of other library workers visiting it before. And the order in which they sorted the floppies on the shelves, to generate other portals. The same stiff air as in the library filled the space of the ARCHIVE room, reminding him of this tablet legal jurisdiction - the library administration and his direct employer. A86 chose a smaller pile to analyze during this shift from the large one on the table and sat on a chair to sift through them.
+
+Although the process of exploring each piece of data was intensive in a way hard to internalize, A86’s natural state of mind was tuned to deal with the task. A major part of his expertise was to run those different well known life scenarios simulations, going through each in a technical way for any scrap of data that might have value. This was also the most cost effective way of doing so, thanks to A86’s intuitive understanding of the people of this era.
+
+The Brotherhood Eye was part of a drive for the BINFAP economy and based on a coin system named the Financial Unit Coin - or shortly FUC. The final summary indicated a somewhat depleted FUC counter relative to what A86 hoped for, not least after a long and busy day like this. All reports were presented next to a rotating miniature avatar of himself and above his head was the amount of coins he has at present time shown in glowing yellow-orange three dimensional numericals. 
+
+The greatest punishment thus would not be death, but being erased from the collective memory, and being forgotten by the Brotherhood. This kind of punishment was the destiny of the worst enemies of the Brotherhood: the traitors, rebels, enemies of the BINFAP. Fortunately, such people were long extinct by now, no one in their right mind today will want to rebel against the great Brotherhood. Doing so would not be an act of defiance, but one of pure madness. 
+
+To the Brotherhood’s credit, the patriotic music playing in the background was pleasant to the ears, perfect for earning coins as one waited for the bus. A86 had his attention on the Brotherhood adverts too. Obnoxious as the commercials were, seeing them million times he still kept his focus, as he was in desperate need of the extra coins, and the AI was capable to recognize when he’s not paying enough attention and not credit him with the amount of coins they promised.
+
+Their eyes were suffused with a dullness, empty looks showed no presence of any spirit, motivation or hope, there is nothing that will change in their life as long as they live, they all are just going home to eat the evening meals. The only glimpse of excitement you can read on their faces was when they were either thinking or talking about the greatness of the brotherhood, or about the taste of their night meals. 
+
+The usual life cycle as a yellow striped species included being drafted to the front at the end of their life and most probably die in a war game, made as a major propaganda entertainment tool - which everyone except the victims very enjoyed playing and couldn’t believe this game could ever stop. Most of them weren’t enjoying playing this game, controlling the life of other people like themselves, except very few sadists. Yet everyone was participating in this war entertainment game as part of their patriotic duty for the BINFAP. Their chances of anything else were slim less than one percent, yet the slim the chances were, they gave everyone enough hope to continue their life cycle, especially if they were evolutionarily adapted to be satisfied with that level of hope. 
+
+Unique sense of celebration and excitement for the upcoming festival was filling all the people. Executions by the highest ranks of the Brotherhood were part of the festival. There was an actual sense of novelty - of grandness of meaning to the event, of progress done in the past year. The festival was the only event in the year-long breakless routine. The hologram were also making sure that everyone remembers the upcoming festival event 
+
+Upon entering one of the eggs and paying the right amount of coins listed above each entrance, the participant would find himself as this character, dressed in these clothes and inside a detailed simulation. From that point on, the user experienced life as it would have been all those millioniums ago.
+
